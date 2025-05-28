@@ -68,8 +68,8 @@ params:
         #   url: cv.pdf
         - name: Email
           url: mailto:kabir.dabholkar@students.iiserpune.ac.in
-        # - name: Google Scholar
-        #   url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
+        - name: Google Scholar
+          url: https://scholar.google.com/citations?user=UTf-kBAAAAAJ&hl=en
         - name: GitHub
           url: https://github.com/KabirDabholkar
         - name: Bluesky
