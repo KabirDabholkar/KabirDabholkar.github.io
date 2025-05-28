@@ -55,7 +55,7 @@ params:
     profileMode:
           enabled: true
           title: Kabir Dabholkar
-          subtitle: "I am a PhD Candidate at Technion -- Israel Institute of Technology, in the group of Omri Barak."
+          subtitle: "I am a PhD Candidate at Technion, in the group of [Omri Barak](https://barak.net.technion.ac.il). I study mathematical models of the brain often using neural networks, and dynamical systems theory. My research focuses on developing methods to evaluate and understand these models, exploring what they can teach us."
           imageUrl: "me.jpeg"
           imageWidth: 160
           imageHeight: 160
