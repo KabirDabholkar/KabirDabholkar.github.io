@@ -1,61 +1,40 @@
 ---
-title: "Unusual Uses For Olive Oil" 
-date: 2013-01-15
-tags: ["philology","oleic science","history of oil","Mediterranean world"]
-author: ["Detlev Amadeus Unterholzer","Moritz-Maria von Igelfeld"]
-description: "This paper reviews unusual uses for olive oil throughout the Mediterranean world. Published in the Journal of Oleic Science, 2013." 
-summary: "This paper reviews unusual uses for olive oil throughout the Mediterranean world. It highlights in particular the challengs arising from excessive or unorthodox consumption of olive oil." 
+title: "Finding separatrices of dynamical flows with Deep Koopman Eigenfunctions" 
+date: 2025-05-28
+tags: []
+author: ["Kabir V. Dabholkar","Omri Barak"]
+description: "A numerical method utilising neural networks and Koopman theory to find separatrices of dynamical systems." 
+summary: "" 
 cover:
-    image: "paper1.png"
-    alt: "Some Uses For Olive Oil"
+    image: "finding_separatrices.png"
+    alt: "Find"
     relative: true
 editPost:
-    URL: "https://github.com/pmichaillat/hugo-website"
-    Text: "Journal of Oleic Science"
+    URL: "https://arxiv.org/abs/2505.15231"
+    Text: "arxiv"
 
 ---
 
----
+![Finding separatrices of dynamical flows with Deep Koopman Eigenfunctions](finding_separatrices.png)
 
-##### Download
-
-+ [Paper](paper1.pdf)
-+ [Online appendix](appendix1.pdf)
-+ [Code and data](https://github.com/pmichaillat/feru)
 
 ---
 
-##### Abstract
+### Abstract
 
-This paper reviews unusual uses for olive oil throughout the Mediterranean world. It highlights in particular the challengs arising from excessive or unorthodox consumption of olive oil. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
----
-
-##### Figure 6: Some Uses For Olive Oil
-
-![](paper1.png)
+Many natural systems, including neural circuits involved in decision making, can be modeled as high-dimensional dynamical systems with multiple stable states. While existing analytical tools primarily describe behavior near stable equilibria, characterizing separatrices -- the manifolds that delineate boundaries between different basins of attraction -- remains challenging, particularly in high-dimensional settings. Here, we introduce a numerical framework leveraging Koopman Theory combined with Deep Neural Networks to effectively characterize separatrices. Specifically, we approximate Koopman Eigenfunctions (KEFs) associated with real positive eigenvalues, which vanish precisely at the separatrices. Utilizing these scalar KEFs, optimization methods efficiently locate separatrices even in complex systems. We demonstrate our approach on synthetic benchmarks, ecological network models, and recurrent neural networks trained on neuroscience-inspired tasks. Moreover, we illustrate the practical utility of our method by designing optimal perturbations that can shift systems across separatrices, enabling predictions relevant to optogenetic stimulation experiments in neuroscience.
 
 ---
 
-##### Citation
+##### Citation 
 
-Unterholzer, Detlev A., and  Moritz-Maria von Igelfeld. 2013. "Unusual Uses For Olive Oil." *Journal of Oleic Science* 34 (1): 449–489. http://www.alexandermccallsmith.com/book/unusual-uses-for-olive-oil.
+Dabholkar, Kabir V., and Omri Barak. "Finding separatrices of dynamical flows with Deep Koopman Eigenfunctions." arXiv preprint arXiv:2505.15231 (2025).
 
 ```BibTeX
-@article{UI13,
-author = {Detlev A. Unterholzer and Moritz-Maria von Igelfeld},
-year = {2013},
-title ={Unusual Uses For Olive Oil},
-journal = {Journal of Oleic Science},
-volume = {34},
-number = {1},
-pages = {449--489},
-url = {http://www.alexandermccallsmith.com/book/unusual-uses-for-olive-oil}}
+@article{dabholkar2025finding,
+  title={Finding separatrices of dynamical flows with Deep Koopman Eigenfunctions},
+  author={Dabholkar, Kabir V and Barak, Omri},
+  journal={arXiv preprint arXiv:2505.15231},
+  year={2025}
+}
 ```
-
----
-
-##### Related material
-
-+ [Presentation slides](presentation1.pdf)
-+ [Summary of the paper](https://www.penguinrandomhouse.com/books/110403/unusual-uses-for-olive-oil-by-alexander-mccall-smith/)
