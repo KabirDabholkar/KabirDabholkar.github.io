@@ -17,10 +17,14 @@ editPost:
 ---
 
 ![Finding separatrices of dynamical flows with Deep Koopman Eigenfunctions](finding_separatrices.png)
-### Abstract
 
-We introduce a numerical framework to characterize separatrices in high-dimensional dynamical systems, combining Koopman Theory and Deep Neural Networks. Our method approximates Koopman Eigenfunctions that vanish at separatrices, enabling efficient location of these boundaries between basins of attraction. We demonstrate applications to ecological networks and neuroscience-inspired recurrent neural networks, including optimal perturbation design for crossing separatrices.
+---
 
+### Simple abstract
+
+When you make a decision, your brain crosses a *decision boundary*. In dynamical systems language, this manifold of states is called a *separatrix* in it's *phase space* because states on either side of this manifold proceed to evolve very differently. We develop a numerical method based on Koopman theory to charaterise such a manifold provided the dynamical function, i.e., a comlete description of the dynamics.  We demonstrate the method on several synthetic examples, trained RNNs and a model of microbiome ecology fit to experimental data.
+
+ 
 ---
 
 ##### Citation 
