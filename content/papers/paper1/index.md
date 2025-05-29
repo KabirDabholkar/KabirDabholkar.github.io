@@ -22,9 +22,9 @@ editPost:
 
 ### Simple abstract
 
-When you make a decision, your brain crosses a *decision boundary*. In dynamical systems language, this manifold of states is called a *separatrix* in it's *phase space* because states on either side of this manifold proceed to evolve very differently. We develop a numerical method based on Koopman theory to charaterise such a manifold provided the dynamical function, i.e., a comlete description of the dynamics.  We demonstrate the method on several synthetic examples, trained RNNs and a model of microbiome ecology fit to experimental data.
+When you make a decision, your brain crosses a *decision boundary*. In the language of dynamical systems, this boundary is called a *separatrix* in the system's *phase space*, because states on either side of it proceed to evolve very differently, ultimately converging to different *attractors*. We develop a numerical method based on Koopman theory to charaterise this boundary, provided the dynamical function, i.e., a complete description of the system dynamics.  We demonstrate our method on several synthetic examples, trained RNNs and a model of microbiome ecology fit to experimental data.
 
- 
+
 ---
 
 ##### Citation 
