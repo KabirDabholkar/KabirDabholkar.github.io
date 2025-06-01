@@ -55,7 +55,7 @@ params:
     profileMode:
           enabled: true
           title: Kabir Dabholkar
-          subtitle: "I am a PhD Candidate at [**Technion**](https://www.technion.ac.il/en/), in the group of [**Omri Barak**](https://barak.net.technion.ac.il). 
+          subtitle: "I am a PhD Candidate at the [**Technion**](https://www.technion.ac.il/en/), in the group of [**Omri Barak**](https://barak.net.technion.ac.il). 
           I study mathematical models of the brain often employing *machine learning*, and *dynamical systems theory*. My research focuses on developing methods to *evaluate*, *compare*, and *reverse-engineer* these models, exploring what they can teach us.
           Previously, I did my undergraduate studies at [**IISER Pune**](https://www.iiserpune.ac.in), where I got my first exposure to computational neuroscience research in the group of [**Suhita Nadkarni**](https://www.iiserpune.ac.in/research/department/biology/people/faculty/regular-faculty/suhita-nadkarni/305).
            "
