@@ -1,6 +1,6 @@
 ---
 title: "When predict can also explain: few-shot prediction to select better neural latents" 
-date: 2024-03-19
+date: 2024-05-23
 tags: []
 author: ["Kabir V. Dabholkar", "Omri Barak"]
 description: "[PLACEHOLDER] Description of the paper" 
