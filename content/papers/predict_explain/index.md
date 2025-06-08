@@ -27,8 +27,6 @@ Latent variable models serve as powerful tools to infer underlying dynamics from
 
 ##### Citation 
 
-Dabholkar, Kabir V., and Omri Barak. "When predict can also explain: few-shot prediction to select better neural latents." [PLACEHOLDER] Journal/Conference (2024).
-
 ```BibTeX
 @article{dabholkar2024predict,
   title={When predict can also explain: few-shot prediction to select better neural latents},
