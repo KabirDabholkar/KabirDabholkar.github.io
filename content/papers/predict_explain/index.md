@@ -3,7 +3,7 @@ title: "When predict can also explain: few-shot prediction to select better neur
 date: 2024-05-23
 tags: []
 author: ["Kabir V. Dabholkar", "Omri Barak"]
-description: "[PLACEHOLDER] Description of the paper" 
+# description: "[PLACEHOLDER] Description of the paper" 
 summary: "A prediction-based framework to evaluate the goodness of latent variable models of neural data. Few-shot prediction encourages 'simplicity', discouraging *extraneous features* in the latents. " 
 cover:
     image: "predict_explain.png"

@@ -67,8 +67,8 @@ params:
               url: papers/
 
     socialIcons:
-        # - name: CV
-        #   url: cv.pdf
+        - name: CV
+          url: cv.pdf
         - name: Email
           url: mailto:kabir.dabholkar@students.iiserpune.ac.in
         - name: Google Scholar
