@@ -1,5 +1,5 @@
 ---
-title: "Finding separatrices of dynamical flows with Deep Koopman Eigenfunctions" 
+title: "Finding separatrices of dynamical flows with Deep Koopman Eigenfunctions, Neurips 2025" 
 date: 2025-05-28
 tags: []
 author: ["Kabir V. Dabholkar","Omri Barak"]
@@ -10,8 +10,8 @@ cover:
     alt: "Find"
     relative: true
 editPost:
-    URL: "https://arxiv.org/abs/2505.15231"
-    Text: "arxiv"
+    URL: "https://openreview.net/forum?id=4KRERpdVDC&referrer=%5Bthe+profile+of+Kabir+Vinay+Dabholkar%5D%28%2Fprofile%3Fid%3D%7EKabir_Vinay_Dabholkar1%29"
+    Text: "OpenReview"
 
 
 ---
