@@ -6,10 +6,24 @@
     <description>Recent content on Kabir Dabholkar</description>
     <generator>Hugo -- 0.147.6</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 28 May 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Dec 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Finding separatrices of dynamical flows with Deep Koopman Eigenfunctions</title>
+      <link>http://localhost:1313/talks/neurips_poster/</link>
+      <pubDate>Sat, 29 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talks/neurips_poster/</guid>
+      <description>Neurips Poster page includes video recording with slides.</description>
+    </item>
+    <item>
+      <title>Finding separatrices with Deep (squashed) Koopman Eigenfunctions</title>
+      <link>http://localhost:1313/talks/champalimaud_talk/</link>
+      <pubDate>Fri, 17 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talks/champalimaud_talk/</guid>
+      <description>Talk given at Champalimaud Research Symposium 2025.</description>
+    </item>
+    <item>
+      <title>Finding separatrices of dynamical flows with Deep Koopman Eigenfunctions, Neurips 2025</title>
       <link>http://localhost:1313/papers/paper1/</link>
       <pubDate>Wed, 28 May 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/papers/paper1/</guid>

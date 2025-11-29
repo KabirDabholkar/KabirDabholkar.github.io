@@ -62,6 +62,9 @@
         </svg>
       </span>
       {{- end }}
+      {{- with .Params.description }}
+      <p class="talk-description">{{ . }}</p>
+      {{- end }}
     </h2>
   </header>
   {{- if (ne (.Param "hideSummary") true) }}

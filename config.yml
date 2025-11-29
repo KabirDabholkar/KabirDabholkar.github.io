@@ -18,6 +18,9 @@ menu:
         - name: Papers
           url: papers/
           weight: 2
+        - name: Talks
+          url: talks/
+          weight: 2
         # - name: Courses
         #   url: courses/
         #   weight: 3
@@ -44,7 +47,7 @@ params:
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
-    MainSections: ["papers"]
+    MainSections: ["papers", "talks"]
     ShowToc: false
     disableScrollToTop: true
     TocOpen: true
@@ -65,7 +68,8 @@ params:
           buttons:
             - name: Papers
               url: papers/
-
+            - name: Talks
+              url: talks/
     socialIcons:
         - name: CV
           url: cv.pdf
