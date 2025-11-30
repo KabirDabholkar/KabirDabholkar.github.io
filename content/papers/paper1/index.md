@@ -3,8 +3,7 @@ title: "Finding separatrices of dynamical flows with Deep Koopman Eigenfunctions
 date: 2025-05-28
 tags: []
 author: ["Kabir V. Dabholkar","Omri Barak"]
-description: "A numerical method utilising neural networks and Koopman theory to find separatrices of dynamical systems." 
-summary: "" 
+summary: "A numerical method utilising neural networks and Koopman theory to find separatrices of dynamical systems." 
 cover:
     image: "finding_separatrices.png"
     alt: "Find"
