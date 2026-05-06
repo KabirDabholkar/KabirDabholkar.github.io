@@ -59,11 +59,12 @@ params:
           enabled: true
           title: Kabir Dabholkar
           subtitle: |
-            I am currently a postdoc at Princeton University in the group of [**Jonathan Pillow**](https://pillowlab.princeton.edu).<br><br>
+            I am currently a postdoc in the [**Pillow Lab**](https://pillowlab.princeton.edu) at Princeton University .<br><br>
             I study mathematical models of the brain often employing *machine learning*, and *dynamical systems theory*. My research focuses on developing methods to *evaluate*, *compare*, and *reverse-engineer* these models, exploring what they can teach us.<br><br>
-            Previously, I was a postdoc in the group of [**Ran Darshan**](https://darshanlab.sites.tau.ac.il) at Tel Aviv University.<br>
-            I did my PhD at the [**Technion**](https://www.technion.ac.il/en/), with [**Omri Barak**](https://barak.net.technion.ac.il).<br>
-            *Previously, previously*, I did my undergraduate studies at [**IISER Pune**](https://www.iiserpune.ac.in), where I got my first exposure to computational neuroscience research in the group of [**Suhita Nadkarni**](https://www.iiserpune.ac.in/research/department/biology/people/faculty/regular-faculty/suhita-nadkarni/305).
+            Previously,
+            - I was a postdoc in the group of [**Ran Darshan**](https://darshanlab.sites.tau.ac.il) at Tel Aviv University,
+            - I did my PhD at the [**Technion**](https://www.technion.ac.il/en/), with [**Omri Barak**](https://barak.net.technion.ac.il), and
+            - I did my undergraduate studies at [**IISER Pune**](https://www.iiserpune.ac.in), where I got my first exposure to computational neuroscience research in the group of [**Suhita Nadkarni**](https://www.iiserpune.ac.in/research/department/biology/people/faculty/regular-faculty/suhita-nadkarni/305).
           imageUrl: "me_newer.jpeg"
           imageWidth: 160
           imageHeight: 160
