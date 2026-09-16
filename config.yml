@@ -77,7 +77,7 @@ params:
         - name: CV
           url: cv.pdf
         - name: Email
-          url: mailto:kabir.dabholkar@students.iiserpune.ac.in
+          url: mailto:kd8004@princeton.edu
         - name: Google Scholar
           url: https://scholar.google.com/citations?user=UTf-kBAAAAAJ&hl=en
         - name: GitHub
